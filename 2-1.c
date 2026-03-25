@@ -1,8 +1,8 @@
-#include <stdio.h>
+#include <stdio.h>	// Preprocessor
 
-int main(void)
-{
-	int a;
+int main(void)		// Definition of "main()" function
+{					// Start of the scope
+	int a;			// Statements
 	int b;
 	int c;
 
@@ -12,5 +12,5 @@ int main(void)
 
 	printf("Result is %i", c);
 
-	return 0;
+	return 0;		// End of the scope
 }
