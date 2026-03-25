@@ -10,7 +10,7 @@ int main(void)		// Definition of "main()" function
 	b = 2;
 	c = a + b;		// Assignment of the result from an operation
 
-	printf("Result is %i", c);
+	printf("Result is %i", c);	// Invocation or call of a function
 
-	return 0;		// End of the scope
-}
+	return 0;		// Return of a value
+}					// End of the scope
