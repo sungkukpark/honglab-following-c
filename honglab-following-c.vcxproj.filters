@@ -24,5 +24,14 @@
     <ClCompile Include="2-1.c">
       <Filter>Source Files\Chapter2</Filter>
     </ClCompile>
+    <ClCompile Include="2-3.c">
+      <Filter>Source Files\Chapter2</Filter>
+    </ClCompile>
+    <ClCompile Include="2-4.c">
+      <Filter>Source Files\Chapter2</Filter>
+    </ClCompile>
+    <ClCompile Include="2-5.c">
+      <Filter>Source Files\Chapter2</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
