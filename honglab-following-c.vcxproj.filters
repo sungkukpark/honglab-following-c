@@ -33,5 +33,8 @@
     <ClCompile Include="2-5.c">
       <Filter>Source Files\Chapter2</Filter>
     </ClCompile>
+    <ClCompile Include="2-6.c">
+      <Filter>Source Files\Chapter2</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
