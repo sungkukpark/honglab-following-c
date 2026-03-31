@@ -1,16 +1,16 @@
+/*
+* Written by Sungkuk Park
+*/
 #include <stdio.h>
 
 int main(void)
 {
-	// printf function
-	//printf("The truth is ...\n I am Ironman.\n");
-
-	int x, y, z;
+	int x, y, sum;	// variables
 
 	x = 3;
 	y = 2;
 
-	z = x + y;
+	sum = x + y;		// add two variables
 	printf("%i + %i = %i\n", x, y, x + y);
 
 	// Sound alarm
