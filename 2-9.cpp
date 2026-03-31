@@ -8,8 +8,8 @@ int main()
 	int x, y, z;
 
 	x = 1;
-	y = 2;
-	z = 3;
+	y = 20;
+	z = 0;
 
 	z = x + y;
 
@@ -20,6 +20,9 @@ int main()
 
 void say_hello()	// function definition
 {
+	int x;
+	x = 10;
+
 	printf("Hello, World!\n");
 
 	return;
