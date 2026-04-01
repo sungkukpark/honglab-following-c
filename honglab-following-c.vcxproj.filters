@@ -13,7 +13,10 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
-    <Filter Include="Source Files\Chapter2">
+    <Filter Include="Source Files\Chapter_3">
+      <UniqueIdentifier>{58ffd628-3810-4b8a-b7b2-231659419c8e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Chapter_2">
       <UniqueIdentifier>{a770249a-bb0e-4be2-b0c5-1a43d4ea9a53}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
@@ -22,37 +25,40 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="2-1.c">
-      <Filter>Source Files\Chapter2</Filter>
+      <Filter>Source Files\Chapter_2</Filter>
     </ClCompile>
     <ClCompile Include="2-3.c">
-      <Filter>Source Files\Chapter2</Filter>
+      <Filter>Source Files\Chapter_2</Filter>
     </ClCompile>
     <ClCompile Include="2-4.c">
-      <Filter>Source Files\Chapter2</Filter>
+      <Filter>Source Files\Chapter_2</Filter>
     </ClCompile>
     <ClCompile Include="2-5.c">
-      <Filter>Source Files\Chapter2</Filter>
+      <Filter>Source Files\Chapter_2</Filter>
     </ClCompile>
     <ClCompile Include="2-6.c">
-      <Filter>Source Files\Chapter2</Filter>
+      <Filter>Source Files\Chapter_2</Filter>
     </ClCompile>
     <ClCompile Include="2-7.cpp">
-      <Filter>Source Files\Chapter2</Filter>
+      <Filter>Source Files\Chapter_2</Filter>
     </ClCompile>
     <ClCompile Include="2-8.cpp">
-      <Filter>Source Files\Chapter2</Filter>
+      <Filter>Source Files\Chapter_2</Filter>
     </ClCompile>
     <ClCompile Include="2-9.cpp">
-      <Filter>Source Files\Chapter2</Filter>
+      <Filter>Source Files\Chapter_2</Filter>
     </ClCompile>
     <ClCompile Include="2-10.cpp">
-      <Filter>Source Files\Chapter2</Filter>
+      <Filter>Source Files\Chapter_2</Filter>
     </ClCompile>
     <ClCompile Include="2-12.cpp">
-      <Filter>Source Files\Chapter2</Filter>
+      <Filter>Source Files\Chapter_2</Filter>
     </ClCompile>
     <ClCompile Include="3-3.cpp">
-      <Filter>Source Files\Chapter2</Filter>
+      <Filter>Source Files\Chapter_3</Filter>
+    </ClCompile>
+    <ClCompile Include="3-4.cpp">
+      <Filter>Source Files\Chapter_3</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
