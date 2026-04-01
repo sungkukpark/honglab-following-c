@@ -51,5 +51,8 @@
     <ClCompile Include="2-12.cpp">
       <Filter>Source Files\Chapter2</Filter>
     </ClCompile>
+    <ClCompile Include="3-3.cpp">
+      <Filter>Source Files\Chapter2</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
