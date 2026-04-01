@@ -48,5 +48,8 @@
     <ClCompile Include="2-10.cpp">
       <Filter>Source Files\Chapter2</Filter>
     </ClCompile>
+    <ClCompile Include="2-12.cpp">
+      <Filter>Source Files\Chapter2</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
