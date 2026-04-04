@@ -72,5 +72,8 @@
     <ClCompile Include="3-8.cpp">
       <Filter>Source Files\Chapter_3</Filter>
     </ClCompile>
+    <ClCompile Include="3-9.cpp">
+      <Filter>Source Files\Chapter_3</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
