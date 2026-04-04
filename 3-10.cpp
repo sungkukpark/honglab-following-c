@@ -22,7 +22,7 @@ int main(int argc, char** argv)
 	//printf("$______");
 	//printf("$______\b\b\b\b\b\b");
 	//scanf("%f", &salary);
-	//printf("You eutered the salary: %.f", salary);
+	//printf("You entered the salary: %.f", salary);
 
 	printf("AB\tCDEF\n");
 	printf("ABC\tDEF\n");
