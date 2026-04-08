@@ -87,5 +87,8 @@
     <ClCompile Include="3-12-2.cpp">
       <Filter>Source Files\Chapter_3</Filter>
     </ClCompile>
+    <ClCompile Include="3-13.c">
+      <Filter>Source Files\Chapter_3</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
