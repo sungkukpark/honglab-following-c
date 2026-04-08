@@ -39,52 +39,52 @@
     <ClCompile Include="2-6.c">
       <Filter>Source Files\Chapter_2</Filter>
     </ClCompile>
-    <ClCompile Include="2-7.cpp">
+    <ClCompile Include="2-7.c">
       <Filter>Source Files\Chapter_2</Filter>
     </ClCompile>
-    <ClCompile Include="2-8.cpp">
+    <ClCompile Include="2-8.c">
       <Filter>Source Files\Chapter_2</Filter>
     </ClCompile>
-    <ClCompile Include="2-9.cpp">
+    <ClCompile Include="2-9.c">
       <Filter>Source Files\Chapter_2</Filter>
     </ClCompile>
-    <ClCompile Include="2-10.cpp">
+    <ClCompile Include="2-10.c">
       <Filter>Source Files\Chapter_2</Filter>
     </ClCompile>
-    <ClCompile Include="2-12.cpp">
+    <ClCompile Include="2-12.c">
       <Filter>Source Files\Chapter_2</Filter>
     </ClCompile>
-    <ClCompile Include="3-3.cpp">
+    <ClCompile Include="3-3.c">
       <Filter>Source Files\Chapter_3</Filter>
     </ClCompile>
-    <ClCompile Include="3-4.cpp">
+    <ClCompile Include="3-4.c">
       <Filter>Source Files\Chapter_3</Filter>
     </ClCompile>
-    <ClCompile Include="3-5.cpp">
+    <ClCompile Include="3-5.c">
       <Filter>Source Files\Chapter_3</Filter>
     </ClCompile>
-    <ClCompile Include="3-6.cpp">
+    <ClCompile Include="3-6.c">
       <Filter>Source Files\Chapter_3</Filter>
     </ClCompile>
-    <ClCompile Include="3-7.cpp">
+    <ClCompile Include="3-7.c">
       <Filter>Source Files\Chapter_3</Filter>
     </ClCompile>
-    <ClCompile Include="3-8.cpp">
+    <ClCompile Include="3-8.c">
       <Filter>Source Files\Chapter_3</Filter>
     </ClCompile>
-    <ClCompile Include="3-9.cpp">
+    <ClCompile Include="3-9.c">
       <Filter>Source Files\Chapter_3</Filter>
     </ClCompile>
-    <ClCompile Include="3-10.cpp">
+    <ClCompile Include="3-10.c">
       <Filter>Source Files\Chapter_3</Filter>
     </ClCompile>
-    <ClCompile Include="3-11.cpp">
+    <ClCompile Include="3-11.c">
       <Filter>Source Files\Chapter_3</Filter>
     </ClCompile>
-    <ClCompile Include="3-12-1.cpp">
+    <ClCompile Include="3-12-1.c">
       <Filter>Source Files\Chapter_3</Filter>
     </ClCompile>
-    <ClCompile Include="3-12-2.cpp">
+    <ClCompile Include="3-12-2.c">
       <Filter>Source Files\Chapter_3</Filter>
     </ClCompile>
     <ClCompile Include="3-13.c">
