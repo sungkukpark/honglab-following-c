@@ -19,6 +19,9 @@
     <Filter Include="Source Files\Chapter_2">
       <UniqueIdentifier>{a770249a-bb0e-4be2-b0c5-1a43d4ea9a53}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\Chapter_4">
+      <UniqueIdentifier>{50ad8b62-d6fb-48f7-a84d-a0bae65ce606}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <None Include="README.md" />
@@ -89,6 +92,15 @@
     </ClCompile>
     <ClCompile Include="3-13.c">
       <Filter>Source Files\Chapter_3</Filter>
+    </ClCompile>
+    <ClCompile Include="3-14.c">
+      <Filter>Source Files\Chapter_3</Filter>
+    </ClCompile>
+    <ClCompile Include="4-1.c">
+      <Filter>Source Files\Chapter_4</Filter>
+    </ClCompile>
+    <ClCompile Include="4-2.cpp">
+      <Filter>Source Files\Chapter_4</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
