@@ -99,7 +99,10 @@
     <ClCompile Include="4-1.c">
       <Filter>Source Files\Chapter_4</Filter>
     </ClCompile>
-    <ClCompile Include="4-2.cpp">
+    <ClCompile Include="4-2.c">
+      <Filter>Source Files\Chapter_4</Filter>
+    </ClCompile>
+    <ClCompile Include="4-3.c">
       <Filter>Source Files\Chapter_4</Filter>
     </ClCompile>
   </ItemGroup>
