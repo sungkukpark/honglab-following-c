@@ -3,7 +3,7 @@
 #include <string.h>
 #include <assert.h>
 #include "../string/rb_string.h"
-#include <sal.h>
+#include <sal.h>  // for SAL annotations (e.g. _Check_return_) used in rb_strlen
 
 int main()
 {
