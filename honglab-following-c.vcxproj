@@ -99,7 +99,10 @@
     <ClCompile Include="chapter_4\4-4.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="chapter_4\4-5.c" />
+    <ClCompile Include="chapter_4\4-5.c">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="chapter_4\4-6.c" />
     <ClCompile Include="string\strlen.c" />
   </ItemGroup>
   <ItemGroup>

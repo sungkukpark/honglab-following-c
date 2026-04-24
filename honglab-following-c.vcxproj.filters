@@ -114,6 +114,9 @@
     <ClCompile Include="chapter_4\4-5.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="chapter_4\4-6.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="string\rb_string.h">
