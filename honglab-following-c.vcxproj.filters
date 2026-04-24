@@ -27,83 +27,94 @@
     <None Include="README.md" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="2-1.c">
+    <ClCompile Include="chapter_2\2-1.c">
       <Filter>Source Files\Chapter_2</Filter>
     </ClCompile>
-    <ClCompile Include="2-3.c">
+    <ClCompile Include="chapter_2\2-3.c">
       <Filter>Source Files\Chapter_2</Filter>
     </ClCompile>
-    <ClCompile Include="2-4.c">
+    <ClCompile Include="chapter_2\2-4.c">
       <Filter>Source Files\Chapter_2</Filter>
     </ClCompile>
-    <ClCompile Include="2-5.c">
+    <ClCompile Include="chapter_2\2-5.c">
       <Filter>Source Files\Chapter_2</Filter>
     </ClCompile>
-    <ClCompile Include="2-6.c">
+    <ClCompile Include="chapter_2\2-6.c">
       <Filter>Source Files\Chapter_2</Filter>
     </ClCompile>
-    <ClCompile Include="2-7.c">
+    <ClCompile Include="chapter_2\2-7.c">
       <Filter>Source Files\Chapter_2</Filter>
     </ClCompile>
-    <ClCompile Include="2-8.c">
+    <ClCompile Include="chapter_2\2-8.c">
       <Filter>Source Files\Chapter_2</Filter>
     </ClCompile>
-    <ClCompile Include="2-9.c">
+    <ClCompile Include="chapter_2\2-9.c">
       <Filter>Source Files\Chapter_2</Filter>
     </ClCompile>
-    <ClCompile Include="2-10.c">
+    <ClCompile Include="chapter_2\2-10.c">
       <Filter>Source Files\Chapter_2</Filter>
     </ClCompile>
-    <ClCompile Include="2-12.c">
+    <ClCompile Include="chapter_2\2-12.c">
       <Filter>Source Files\Chapter_2</Filter>
     </ClCompile>
-    <ClCompile Include="3-3.c">
+    <ClCompile Include="chapter_3\3-3.c">
       <Filter>Source Files\Chapter_3</Filter>
     </ClCompile>
-    <ClCompile Include="3-4.c">
+    <ClCompile Include="chapter_3\3-4.c">
       <Filter>Source Files\Chapter_3</Filter>
     </ClCompile>
-    <ClCompile Include="3-5.c">
+    <ClCompile Include="chapter_3\3-5.c">
       <Filter>Source Files\Chapter_3</Filter>
     </ClCompile>
-    <ClCompile Include="3-6.c">
+    <ClCompile Include="chapter_3\3-6.c">
       <Filter>Source Files\Chapter_3</Filter>
     </ClCompile>
-    <ClCompile Include="3-7.c">
+    <ClCompile Include="chapter_3\3-7.c">
       <Filter>Source Files\Chapter_3</Filter>
     </ClCompile>
-    <ClCompile Include="3-8.c">
+    <ClCompile Include="chapter_3\3-8.c">
       <Filter>Source Files\Chapter_3</Filter>
     </ClCompile>
-    <ClCompile Include="3-9.c">
+    <ClCompile Include="chapter_3\3-9.c">
       <Filter>Source Files\Chapter_3</Filter>
     </ClCompile>
-    <ClCompile Include="3-10.c">
+    <ClCompile Include="chapter_3\3-10.c">
       <Filter>Source Files\Chapter_3</Filter>
     </ClCompile>
-    <ClCompile Include="3-11.c">
+    <ClCompile Include="chapter_3\3-11.c">
       <Filter>Source Files\Chapter_3</Filter>
     </ClCompile>
-    <ClCompile Include="3-12-1.c">
+    <ClCompile Include="chapter_3\3-12-1.c">
       <Filter>Source Files\Chapter_3</Filter>
     </ClCompile>
-    <ClCompile Include="3-12-2.c">
+    <ClCompile Include="chapter_3\3-12-2.c">
       <Filter>Source Files\Chapter_3</Filter>
     </ClCompile>
-    <ClCompile Include="3-13.c">
+    <ClCompile Include="chapter_3\3-13.c">
       <Filter>Source Files\Chapter_3</Filter>
     </ClCompile>
-    <ClCompile Include="3-14.c">
+    <ClCompile Include="chapter_3\3-14.c">
       <Filter>Source Files\Chapter_3</Filter>
     </ClCompile>
-    <ClCompile Include="4-1.c">
+    <ClCompile Include="chapter_4\4-1.c">
       <Filter>Source Files\Chapter_4</Filter>
     </ClCompile>
-    <ClCompile Include="4-2.c">
+    <ClCompile Include="chapter_4\4-2.c">
       <Filter>Source Files\Chapter_4</Filter>
     </ClCompile>
-    <ClCompile Include="4-3.c">
+    <ClCompile Include="chapter_4\4-3.c">
       <Filter>Source Files\Chapter_4</Filter>
     </ClCompile>
+    <ClCompile Include="chapter_4\4-4.c">
+      <Filter>Source Files\Chapter_4</Filter>
+    </ClCompile>
+    <ClCompile Include="string\strlen.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="string\rb_string.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
