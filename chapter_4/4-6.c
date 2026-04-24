@@ -1,8 +1,8 @@
 #include <stdio.h>
-#include <limits.h>  // for INT_MAX, ..., etc.
-#include <float.h>   // for FLT_MAX, ..., etc.
+#include <limits.h>		// for INT_MAX, ..., etc.
+#include <float.h>		// for FLT_MAX, ..., etc.
 
-#define PI 3.141592f
+#define PI 3.141592f	// "manifest constants" or "symbolic constants"
 
 int main()
 {
