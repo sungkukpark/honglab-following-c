@@ -1,5 +1,5 @@
 ﻿#include <stdio.h>
-#include <stdlib.h>
+#include <stdlib.h>  // for malloc/free; omitting this truncates the 64-bit pointer, causing an access violation
 #include <string.h>
 #include <assert.h>
 #include "../string/rb_string.h"
@@ -28,7 +28,9 @@ int main()
 	str5[3] = 'l';
 	str5[4] = 'o';
 	str5[5] = '\0';
-	printf("%zu %zu\n", sizeof(str5), rb_strlen(str5));
+
+	// sizeof(str5) == 8: pointer size in 64-bit, not the string length
+	printf("%zu %zu\n", sizeof(str5), rb_strlen(str5));  
 
 	free(str5);
 
